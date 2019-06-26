@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="131" started-at="2019-04-14T10:12:34Z" finished-at="2019-04-14T10:12:34Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="131" started-at="2019-04-14T10:12:34Z" finished-at="2019-04-14T10:12:34Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="HybidAppTest()[pri:0, instance:qaclickacademy.AppiumTest@6b2fad11]" name="HybidAppTest" duration-ms="26" started-at="2019-04-14T15:42:34Z" finished-at="2019-04-14T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybidAppTest -->
+        <test-method status="PASS" signature="NativeAppTest()[pri:0, instance:qaclickacademy.AppiumTest@6b2fad11]" name="NativeAppTest" duration-ms="1" started-at="2019-04-14T15:42:34Z" finished-at="2019-04-14T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppTest -->
+        <test-method status="PASS" signature="WebAppTest()[pri:0, instance:qaclickacademy.AppiumTest@6b2fad11]" name="WebAppTest" duration-ms="0" started-at="2019-04-14T15:42:34Z" finished-at="2019-04-14T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebAppTest -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="RestApiTest()[pri:0, instance:qaclickacademy.RESTAPITest@2ed94a8b]" name="RestApiTest" duration-ms="0" started-at="2019-04-14T15:42:34Z" finished-at="2019-04-14T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApiTest -->
+        <test-method status="PASS" signature="SoapuiTest()[pri:0, instance:qaclickacademy.RESTAPITest@2ed94a8b]" name="SoapuiTest" duration-ms="0" started-at="2019-04-14T15:42:34Z" finished-at="2019-04-14T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapuiTest -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserCloseTest()[pri:0, instance:qaclickacademy.SeleniumTest@38082d64]" name="BrowserCloseTest" duration-ms="0" started-at="2019-04-14T15:42:34Z" finished-at="2019-04-14T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCloseTest -->
+        <test-method status="PASS" signature="BrowserLaunchTest()[pri:0, instance:qaclickacademy.SeleniumTest@38082d64]" name="BrowserLaunchTest" duration-ms="1" started-at="2019-04-14T15:42:34Z" finished-at="2019-04-14T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchTest -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
